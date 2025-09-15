@@ -1,0 +1,19 @@
+{
+  "name": "titan-node-bot",
+  "version": "1.0.0",
+  "description": "Titan Node Auto Bot - Direct Mode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["titan", "node", "bot"],
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.0",
+    "random-useragent": "^0.5.0",
+    "uuid": "^9.0.0",
+    "ws": "^8.17.0"
+  }
+}
